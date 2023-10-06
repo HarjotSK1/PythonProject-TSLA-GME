@@ -1,1 +1,0 @@
-# PythonProject-TSLA-GME
